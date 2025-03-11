@@ -4,3 +4,11 @@
     display: flex;
     padding: 24px;
 }
+
+.section1{
+    background-color: black;
+}
+
+.section2{
+    background-color:blue;
+}
